@@ -30,7 +30,7 @@ The `.gitignore` file excludes the virtual environment, Python cache files, and 
 
 ## Requirements
 
-- Python 3.8 or later.
+- Python 3.11 or later.
 - Tkinter. It is included with many Python installations; on some Linux distributions it must be installed separately.
 - No third-party Python packages are currently required.
 
